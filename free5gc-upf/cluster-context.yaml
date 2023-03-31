@@ -10,4 +10,4 @@ spec:
   siteCode: example
   cniConfig:
     cniType: macvlan
-    masterInterface: ens0
+    masterInterface: eth1
